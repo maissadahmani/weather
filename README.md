@@ -1,4 +1,5 @@
 # Weather-APP
+<img width="618" alt="WeatherApp" src="https://github.com/maissadahmani/weather/assets/160016532/80a285ff-6054-4784-b1e6-4c89eb0d00b5">
 
 ## English
 
